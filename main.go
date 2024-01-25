@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/pedropezzuol/api_test/src/config"
-	"github.com/pedropezzuol/api_test/src/controller/routes"
+	"github.com/pedropezzuol/api_test/config"
+	"github.com/pedropezzuol/api_test/controller/routes"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/pedropezzuol/api_test/src/controller/request"
+	"github.com/pedropezzuol/api_test/controller/request"
 )
 
 func CreateUser(c *gin.Context) {

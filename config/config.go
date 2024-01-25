@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/pedropezzuol/api_test/src/config/database"
+	"github.com/pedropezzuol/api_test/config/database"
 )
 
 var db *sql.DB
